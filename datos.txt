@@ -1,0 +1,91 @@
+equipo 1
+Intel® Core™ i3-10100T (3.0 / 3.8 GHz, 4 núcleos) Décima generación 
+RAM 8 GB DDR4-2666 ampliable
+Disco SSD 128GB + HDD 1 TB SATA 
+Pantalla 24" Full HD (1920x1080) IPS, marcos reducidos.
+WiFi Doble banda, Buetooth 5.0, Cámara web 720p
+Windows 10 Home
+
+equipo2
+Intel Core i7-10700 ( 2.9 / 4.8GHz, 8 núcleos / 16 Caché) 
+RAM 16 GB DDR4-2933MHz ampliable 
+Disco Sólido SSD 512GB PCIe M.2 PCIe NVMe
+Video NVIDIA®️ GTX 1660 Super con 6 GB GDDR6 dedicado
+Case Center Creator 5i, Wi-Fi, Bluetooth
+Windows 10 Pro
+ISV Validado, la Creator 5i es compatible con software profesional, lo que garantiza que las aplicaciones de creación de contenido funcionen sin problemas.
+
+S/. 6,799.00
+
+equipo3
+Intel Core i7-10700T 2.0 / 4.5GHz, 8 núcleos, 16 MB de caché
+Memoria RAM 16GB DDR4-2933 ampliable 
+Disco de estado sólido 512GB SSD M.2 PCIe
+Video NVIDIA Quadro P1000 de 4 GB DDR5
+Intel® WiFi 6, Bluetooth® 5.0, DisplayPort™, Teclado y mouse.
+Windows 10 Pro
+Trabaja a lo grande en la workstation más pequeña del sector, exhibela en el escritorio o montala detrás de la pantalla y disfruta de lo último en flexibilidad con un sistema que se enfoca en la potencia, funcionalidad y capacidad de configuración
+
+S/. 6,999.00
+
+laptop1
+Intel® Core™ i5 10500H 2.5 / 4.5GHz, 4 núcleos - Décima Generación.
+RAM: 8 GB  DDR4 / Disco sólido SSD 256GB PCle
+Pantalla de 15.6" Full HD (1920x1080) IPS Thin Bezel
+Video Nvidia Geforce GTX 1650 de 4 GB dedicados
+Teclado iluminado, Wi-FI, Bluetooth, USB Tipo-C
+Windows 10 Home
+S/. 3,799.00
+
+laptop2
+Intel® Core™ i7-9750H 2.6 GHz hasta 4.5 GHz, 12 MB cache, 6 núcleos.
+RAM 16 GB DDR4 / Sólido SSD 512GB PCie
+LED 15,6" Full HD IPS WLED (1920 x 1080) IPS
+Video NVIDIA GeForce GTX 1660Ti con 6 GB dedicado
+Teclado iluminado, USB Type-C, Wi-Fi, Bluetooth
+Windows 10 Home
+
+S/. 5,499.00
+
+laptop3
+Intel® Core i7-11800H  2.3 / 4.6 GHz, 8 núcleos - Onceava Generación
+Memoria RAM: 16 GB DDR4-3200 MHz
+Sólido SSD 512 GB PCIe M.2 NVMe™
+Pantalla de 16.1'' Full HD (1920x1080) IPS, 144Hz con microbordes, antireflectante 
+Video Nvidia GeForce RTX 3050Ti con 4 GB GDRR6 
+Teclado retroiluminado, Wi-Fi 6, Bluetooth, USB Tipo C
+Acabado en azul intenso con logotipo cromado, Audio By B&O
+Windows 11 Home
+
+
+S/. 5,699.00
+
+juego 1
+Hollow Knight
+es un videojuego perteneciente al género metroidvania desarrollado y publicado por Team Cherry. El videojuego fue inicialmente lanzado para Microsoft Windows en febrero de 2017, y más tarde para macOS y Linux en abril de 2017.​ La adaptación para Nintendo Switch fue lanzada el 12 de junio de 2018.
+S/. 63.52
+
+juego 2
+Elden Ring 
+es un videojuego de rol de acción desarrollado por FromSoftware y publicado por Bandai Namco Entertainment. El videojuego surge de una colaboración entre el director y diseñador Hidetaka Miyazaki y el novelista de fantasía George R. R. Martin.
+S/. 229
+
+juego 3
+The Witcher 3: Wild Hunt 
+es un videojuego de rol desarrollado y publicado por la compañía polaca CD Projekt RED. Esta compañía es la desarrolladora mientras que la distribución corre a cargo de la Warner Bros. Interactive, en el caso de Norteamérica y Bandai Namco para Europa.
+S/. 134.90
+
+juego 4
+Bloodborne
+es un videojuego de rol de acción dirigido por Hidetaka Miyazaki, desarrollado por From Software y JapanStudio distribuido por Sony Computer Entertainment para la plataforma de PlayStation 4.​
+S/. 214.90
+
+juego 5
+Dark Souls Remastered
+Videojuego de rol de acción, Videojuego de pelea, Videojuego de aventura, de la serie Souls
+S/. 85
+
+juego 6
+God of War: Ragnarök 
+es un videojuego de acción y aventuras desarrollado por Santa Monica Studio y publicado por Sony Interactive Entertainment. Se lanzó en todo el mundo el 9 de noviembre de 2022 para PlayStation 4 y PlayStation 5, lo que marca el primer lanzamiento entre generaciones de la serie.
+S/. 255
